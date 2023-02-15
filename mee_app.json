@@ -1,0 +1,59 @@
+[
+    {
+        "zodiac" : [
+            "Aries",
+            "Taurus",
+            "Gemini",
+            "Cancer",
+            "Leo",
+            "Virgo"
+        ],
+        "education" :[
+            "High School",
+            "Trade/tech school",
+            "In College",
+            "Undergraduate degree",
+            "In grad school",
+            "Graduate degree"
+        ],
+        "drink" :[
+            "Frequently",
+            "Socially",                
+            "Rarely",
+            "Never",
+            "Sober"                
+        ],
+        "smoke" :[
+            "Socially",    
+            "Never",
+            "Regular"                
+        ],
+        "children" :[
+            "Want someday",    
+            "Have & want more",
+            "Have & don't want more",
+            "Not sure yet"                
+        ],
+        "religion" :[
+            "Agnostic",    
+            "Atheist",
+            "Buddist" ,
+            "Catholic" ,
+            "christian" ,
+            "Hindu" ,
+            "Letter-day-Saint",
+            "Muslim",
+            "Zoroastrian",
+            "Sikh",
+            "Spiritual",
+            "Other"                
+        ],
+        "learning" :[
+            "Apolitical",    
+            "Moderate",
+            "Liberal",
+            "Conservative"                
+        ]
+    }
+
+]
