@@ -1,13 +1,5 @@
 
 
- ali
-9
-
- Danish
-20
-
- Kashif
-6
 
  Danish
 1
@@ -18,11 +10,8 @@
  Hamna
 3
 
- Abdullah
-3
-
- Hamna
-3
-
  Seerat
 4
+
+ Bisma
+5
