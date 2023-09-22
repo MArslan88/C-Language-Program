@@ -1,0 +1,34 @@
+#include <stdio.h>
+
+int main()
+{
+    
+    int val_1 = 2;
+    int val_2 = 2;
+
+    /*
+    if(condition){
+        if condition is true
+        statements...
+    } else{
+        if condition is false
+        statemnts...
+    }
+    */
+
+    if(val_1 == val_2){
+        printf("Both values are equal\n");
+    }else{
+        printf("Both values are not equal\n");
+    }
+
+    if(val_1 > val_2){
+        printf("Value-1 is greater than value-2. \n");
+    }else if(val_2 > val_1){
+        printf("Value-2 is greater than value-1. \n");
+
+    }
+
+
+    return 0;
+}
