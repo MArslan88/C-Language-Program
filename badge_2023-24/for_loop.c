@@ -17,12 +17,12 @@ int main() {
 
     */
 
-    int num = 2;
+    // int num = 2;
 
-    for(int a=1; a<5; a++){
-        num = num * a;
-    }
-    printf("the value of num is : %d",num);
+    // for(int a=1; a<5; a++){
+    //     num = num * a;
+    // }
+    // printf("the value of num is : %d",num);
 
 
     // for(int a=1; a<=10; a++){
@@ -30,6 +30,10 @@ int main() {
     //     // printf("%d ",a);
     //     printf("%d Potato\n",a);
     // }
+
+    for(int a=10; a >= 1; a--){
+        printf("%d\n",a);
+    }
 
 
 
