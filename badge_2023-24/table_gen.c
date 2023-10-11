@@ -15,13 +15,28 @@ int main() {
     2 x 10 = 20
     */
 
-   int TBNO = 7;
+//    int TBNO = 7;
+//    int ans;
+
+//    for(int a=1; a <= 10; a++){
+//     ans = TBNO*a;
+//     printf("%d x %d = %d\n",TBNO, a, ans);
+//    }
+
+
+
+   int TBNO;
    int ans;
+
+   printf("Enter a table number: ");
+   scanf("%d",&TBNO);
 
    for(int a=1; a <= 10; a++){
     ans = TBNO*a;
     printf("%d x %d = %d\n",TBNO, a, ans);
    }
+
+
 
 
 
